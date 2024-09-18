@@ -5,6 +5,8 @@ Andrés de Jesús Montano González - MG230176
 
 Fernando Ernesto Urrutia Vaquero - UV230171
 
+Alcanzamos un 60%
+
 # Capturas de pantalla.
 
 ![por fin](https://github.com/user-attachments/assets/877719ea-ef0f-46ee-badd-904e2896431c)
